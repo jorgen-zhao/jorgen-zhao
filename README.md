@@ -1,5 +1,13 @@
 ### Hi there 👋
-我是jorgen。一个半路出家的程序员:blush:。在实战中摸爬滚打，自我总结了一套经验。:sparkles:现在开始将我积累的知识经验分享给大家:sparkles:。希望能够和更多志同道合的朋友交流、学习、进步:fist:。
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jorgen-zhao&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+😄很高兴你点开了我的主页
+
+- 🔭 我是一个后端工程师，一个半路出家的程序员:blush:
+- 🌱 开源了两个仓库：blog和lite_iot
+- 👯 blog：针对开发的经验积累
+- 📫 lite_iot: 一个轻量级的物联网项目
+- ⚡ 希望我写下的东西能帮助到你
 
 <!--
 **jorgen-zhao/jorgen-zhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
