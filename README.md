@@ -3,23 +3,9 @@
 
 😄很高兴你点开了我的主页
 
-- 🔭 我是一个后端工程师，一个半路出家的程序员:blush:
+- 🔭 我是一个后端工程师
 - 🌱 开源了两个仓库：blog和lite_iot
-- 👯 blog：针对开发的经验积累
-- 📫 lite_iot: 一个轻量级的物联网项目
+- 🤔 blog：针对开发的经验积累
+- 💬 lite_iot: 一个轻量级的物联网项目
 - ⚡ 希望我写下的东西能帮助到你
 
-<!--
-**jorgen-zhao/jorgen-zhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
