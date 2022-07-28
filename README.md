@@ -1,4 +1,5 @@
 ### Hi there 👋
+我是jorgen。一个半路出家的程序员。在实战中摸爬滚打，自我总结了一套经验。现在开始将我积累的知识经验分享给大家。希望能够和更多志同道合的朋友交流、学习、进步。
 
 <!--
 **jorgen-zhao/jorgen-zhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
