@@ -4,8 +4,8 @@
 😄很高兴你点开了我的主页
 
 - 🔭 我是一个后端工程师
-- 🌱 开源了两个仓库：blog和lite_iot
-- 🤔 blog：针对开发的经验积累
+- 🌱 开源了一个仓库：lite_iot
 - 💬 lite_iot: 一个轻量级的物联网项目
+- 🤔 my blog：https:jorgen.space
 - ⚡ 希望我写下的东西能帮助到你
 
